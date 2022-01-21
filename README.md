@@ -21,5 +21,5 @@ If you want to run the application as soon as your Pico starts up, you can renam
 ## Game Options
 
 - 1 player or 2 player mode
-- Use X and Y buttons on the Pico to make menu selection
+- Use X and Y buttons on the Pico Display to make menu selection
 - Press the A button to start the game
